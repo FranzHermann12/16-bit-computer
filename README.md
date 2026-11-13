@@ -1,5 +1,5 @@
 # 16-bit-computer
-16-bit computer
+16-bit Computer From Scratch
 
 Work In Progress 🚧
 
